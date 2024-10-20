@@ -1,16 +1,9 @@
 # Problem set 2- Equipo Keagle: Datos Grandes
 
-## Estructura de Carpetas
+# Problem Set 1
+ ## Estructura del Proyecto
 
-### Document
-
-
-### Scripts
-Contiene todos los scripts de código utilizados para la implementación de los modelos y predicciones. Los scripts están organizados según los modelos empleados:
-- **problem set 2 RFproblem set 2 Boosting.ipynb.ipynb**: Script que muestra el proceso completo de entrenamiento del modelo de Random Fores y el modelo de Boostingt, incluyendo la búsqueda de los mejores parámetros ehiperparámetros.
-- **reportes de modelos....ipynb**: Contiene los modelos con los mejores parámetros seleccionados, listos para ejecutar las predicciones sin volver a entrenar los modelos de RF y Boosting.
-  
-### Stores
--Bases de datos usadas en todos los modelos para el entrenamiento y las predicciones
-
-### Views
+- **scripts**: Contiene los códigos y scripts utilizados para realizar cada punto del análisis.
+- **views**: Incluye los gráficos y visualizaciones generados durante el proyecto.
+- **store**: Contiene la base de datos utilizada para el análisis.
+- **Document**: Contiene el documento final y el paso a paso resumido del desarrollo del problem set
